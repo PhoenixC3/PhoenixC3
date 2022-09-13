@@ -8,7 +8,9 @@
 <div>
   <h1 align="center">About Me!</h1>
   <br>
-  <p align="center">I'm Tiago, an IT Undergraduate at the Faculty of Sciences of the University of Lisbon. <br> Welcome to my GitHub profile!</p>
+  <p align="center">I'm Tiago, an IT Undergraduate at the Faculty of Sciences of the University of Lisbon.</p>
+  <br> 
+  <p align="center">Welcome to my GitHub profile!</p>
   <br>
 
   <p align="center">
