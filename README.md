@@ -8,20 +8,17 @@
 <div>
   <h1 align="center">About Me!</h1>
   <br>
-  <p align="center">I'm Miguel, a IT Undergraduate at Faculty of Sciences of the University of Lisbon. <br> Welcome to my GitHub profile!</p>
+  <p align="center">I'm Tiago, a IT Undergraduate at Faculty of Sciences of the University of Lisbon. <br> Welcome to my GitHub profile!</p>
   <br>
 
   <p align="center">
-    <a href="https://github.com/vlonebroken" target="_blank"><img
+    <a href="https://github.com/PhoenixC3" target="_blank"><img
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="Github"></a>
-    <a href="https://www.msi.com/Laptop/GS65-STEALTH-9SF/Specification" target="_blank"><img
-        src="https://img.shields.io/badge/Msi GS65 Stealth 9SF-ff0000?style=for-the-badge&logo=windows&logoColor=white"
-        alt="Laptop"></a>
-    <a href="https://www.steamcommunity.com/id/s8m" target="_blank"><img
+    <a href="https://www.steamcommunity.com/id/PhoenixC3" target="_blank"><img
         src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
         alt="Steam"></a>
-    <a href="https://www.instagram.com/miguel.faisco/" target="_blank"><img
+    <a href="https://www.instagram.com/tiagoalmeida.15/" target="_blank"><img
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         alt="Instagram"></a>
   </p>
@@ -52,17 +49,9 @@
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="After Effects">
     <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro">
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Atom">
   </p>
-</div>
-
-<br>
-
-<div>
-  <h2 align="center">Support Me!</h1>
-  <br>
-  <p align="center"><a href="https://soundcloud.com/vlonebroken"> <img
-        src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"
-        alt="vlonebroken" width="200" /></a></p>
 </div>
