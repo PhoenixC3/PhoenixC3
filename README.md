@@ -1,7 +1,7 @@
 <br>
 <div align="center">
   <p>
-    <img src="https://lh3.googleusercontent.com/XXipHkbhcufmRGtdPUWjNekg25VQKvYDVr-68SsXD3Y4MNfR16pY0SzNOByAGt9FnIUP3-tvNsl68LhjGuYehVyfJq8WVZQjDi3_rA=w600" width="1000px" height="400px">
+    <img src="https://c.tenor.com/CzjdfcxYTNAAAAAd/neon-city.gif" width="1000px" height="400px">
   </p>
 </div>
 
