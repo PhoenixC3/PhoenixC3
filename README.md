@@ -8,7 +8,7 @@
 <div>
   <h1 align="center">About Me!</h1>
   <br>
-  <p align="center">I'm Tiago, a Cybersecurity and Software Engineering Student at the Faculty of Sciences of the University of Lisbon.</p>
+  <p align="center">Hi! I'm Tiago, a MSc in Computer Science and Engineering student at the Faculty of Sciences of the University of Lisbon. Focusing in Cybersecurity and Software Engineering.</p>
   <p align="center">Welcome to my GitHub profile!</p>
   <br>
 
@@ -16,9 +16,6 @@
     <a href="https://github.com/PhoenixC3" target="_blank"><img
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="Github"></a>
-    <a href="https://www.steamcommunity.com/id/PhoenixC3" target="_blank"><img
-        src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-        alt="Steam"></a>
     <a href="https://www.instagram.com/tiagoalmeida.15/" target="_blank"><img
         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         alt="Instagram"></a>
