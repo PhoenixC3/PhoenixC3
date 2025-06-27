@@ -8,7 +8,7 @@
 <div>
   <h1 align="center">About Me!</h1>
   <br>
-  <p align="center">Hi! I'm Tiago, a MSc in Computer Science and Engineering student at the Faculty of Sciences of the University of Lisbon. Focusing in Cybersecurity and Software Engineering.</p>
+  <p align="center">Hi! I'm Tiago, a MSc Student in Computer Science and Engineering student at the Faculty of Sciences of the University of Lisbon. Focusing in Cybersecurity and Software Engineering.</p>
   <p align="center">Welcome to my GitHub profile!</p>
   <br>
 
